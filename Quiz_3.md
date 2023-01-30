@@ -1,7 +1,10 @@
 ## 3주차 문제
 
 ###미나
-
+1. Dispatcher Servlet이 request를 받아 랜더링된 페이지를 response로 넘겨줄때까지의 과정 설명 
+2. 로깅에 대해 - sysout 안쓰는 이유, 로그 파일, 라이브러리 등
+3. JSON 데이터에 대해 설명해주세요 
+4. 강의에서 쓰인 어노테이션들에 대해 정리해주세요.
 
 ###희준
 1. DispacherServlet 의 역할 혹은 특징
